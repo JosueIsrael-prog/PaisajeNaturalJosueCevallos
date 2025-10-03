@@ -1,3 +1,4 @@
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,8 +6,60 @@
 [Bb]uilds/
 [Ll]ogs/
 MemoryCaptures/
+UserSettings/
+Temp/
+sysinfo.txt
+.crash/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+
+# Visual Studio
+.vs/
 *.csproj
 *.unityproj
 *.sln
+*.suo
 *.user
 *.userprefs
+*.tmp
+*.log
+*.DotSettings.user
+
+# JetBrains Rider
+[Aa]ssets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# Consulo
+.consulo/
+
+# Blender
+*.blend1
+*.blend1.meta
+
+# Gradle
+.gradle/
+
+# Addressables
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Unity Visual Scripting
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# Play Mode Test Scenes
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
