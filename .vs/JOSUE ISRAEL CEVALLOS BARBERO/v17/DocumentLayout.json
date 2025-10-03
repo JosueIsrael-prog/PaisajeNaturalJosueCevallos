@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laboratorio\\Desktop\\JosueCevallos\\PaisajeNaturalJosueCevallos\\JOSUE ISRAEL CEVALLOS BARBERO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C581E16-7DE0-C123-D716-0CE3913FE946}|Assembly-CSharp.csproj|c:\\users\\laboratorio\\desktop\\josuecevallos\\paisajenaturaljosuecevallos\\josue israel cevallos barbero\\assets\\generadordesdeboton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C581E16-7DE0-C123-D716-0CE3913FE946}|Assembly-CSharp.csproj|solutionrelative:assets\\generadordesdeboton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9448D076-E191-8119-FC3E-DCD495397D92}|Assembly-CSharp-Editor.csproj|C:\\Users\\laboratorio\\Desktop\\JosueCevallos\\PaisajeNaturalJosueCevallos\\JOSUE ISRAEL CEVALLOS BARBERO\\assets\\editor\\generadorescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9448D076-E191-8119-FC3E-DCD495397D92}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\generadorescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneradorDesdeBoton.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Desktop\\JosueCevallos\\PaisajeNaturalJosueCevallos\\JOSUE ISRAEL CEVALLOS BARBERO\\Assets\\GeneradorDesdeBoton.cs",
+              "RelativeDocumentMoniker": "Assets\\GeneradorDesdeBoton.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\Desktop\\JosueCevallos\\PaisajeNaturalJosueCevallos\\JOSUE ISRAEL CEVALLOS BARBERO\\Assets\\GeneradorDesdeBoton.cs",
+              "RelativeToolTip": "Assets\\GeneradorDesdeBoton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:12:43.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneradorEscena.cs",
+              "DocumentMoniker": "C:\\Users\\laboratorio\\Desktop\\JosueCevallos\\PaisajeNaturalJosueCevallos\\JOSUE ISRAEL CEVALLOS BARBERO\\Assets\\Editor\\GeneradorEscena.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\GeneradorEscena.cs",
+              "ToolTip": "C:\\Users\\laboratorio\\Desktop\\JosueCevallos\\PaisajeNaturalJosueCevallos\\JOSUE ISRAEL CEVALLOS BARBERO\\Assets\\Editor\\GeneradorEscena.cs",
+              "RelativeToolTip": "Assets\\Editor\\GeneradorEscena.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:36:17.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
